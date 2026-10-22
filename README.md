@@ -25,7 +25,7 @@
 `C++` `JavaScript` `React` `Vite` `Tailwind CSS` `Firebase` `NVIDIA CUDA`
 
 ### 🚀 Featured Projects
-- 🌱 [World of Plants](https://github.com/Avadhut-Pawar31/World-of-Plants-1)
+- 🌱 [WanderCanvas](https://github.com/Avadhut-Pawar31/WanderCanvas)
 - 🎮 [Whack](https://github.com/Avadhut-Pawar31/Whack)
 
 ### 📊 GitHub Stats
@@ -40,4 +40,4 @@
 </p>
 
 ### 🔗 Connect
-[GitHub](https://github.com/Avadhut-Pawar31)
+[Linkedin](www.linkedin.com/in/avadhut0031)
