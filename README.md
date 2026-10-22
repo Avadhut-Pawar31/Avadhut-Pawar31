@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Avadhut-Pawar31/Avadhut-Pawar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Avadhut Pawar 👋</h1>
+<p align="center">Software Product Engineering Student | Full-Stack Developer</p>
 
-Here are some ideas to get you started:
+- 💻 Building web applications
+- 🤖 Exploring AI and NVIDIA CUDA programming
+- 🧠 Practising DSA and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+`C++` `JavaScript` `React` `Vite` `Tailwind CSS` `Firebase` `CUDA`
+
+### Projects
+- [World of Plants](https://github.com/Avadhut-Pawar31/World-of-Plants-1)
+- [Whack](https://github.com/Avadhut-Pawar31/Whack)
+
+### Connect
+[GitHub](https://github.com/Avadhut-Pawar31) · [LinkedIn](YOUR_LINKEDIN_URL)
