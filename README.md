@@ -26,7 +26,7 @@
 
 ### 🚀 Featured Projects
 - 🌱 [WanderCanvas](https://github.com/Avadhut-Pawar31/WanderCanvas)
-- 🎮 [Whack](https://github.com/Avadhut-Pawar31/Whack)
+- 🎮 [Parallel](https://github.com/Avadhut-Pawar31/Parallel)
 
 ### 📊 GitHub Stats
 
